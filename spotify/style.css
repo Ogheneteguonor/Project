@@ -1,0 +1,71 @@
+body {
+	font-family: Arial, sans-serif;
+	background-color: #681da8;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: black;
+    padding: 8px;
+}
+ .navbar ul{
+    display: flex;
+    
+ }
+
+ .navbar li{
+    list-style-type: none;
+    margin-right: 20px;
+ }
+
+ .navbar a{
+    text-decoration: none;
+    color:white;
+ }
+ #spotify{
+    margin-right: 900px;
+ }
+
+.maindiv{
+    display: flex;
+    margin-top:80px ;
+}
+ #prenium{
+    background-color: #7d3bb8;
+    
+    color:white;
+    margin-top: 20px;
+    margin-left: 20px;
+    width:100%;
+ }
+ h1{
+    margin-left: 8px;
+ }
+ #deadline{
+    margin-left: 30px;
+    color:gray;
+    font-weight: bolder;
+    margin-top:50px;
+ }
+ #buttons{
+    display:flex;
+    margin-left: 28px;
+    margin-top: 60px;
+ }
+
+ #text{
+    color:gray;
+    margin-left: 28px;
+    font-weight: bold;
+    font-size: small;
+    margin-top: 70px;
+ }
+#image{
+    width: 40%;
+    margin-left: 5%;
+    margin-right:3%;
+    margin-top: 50px;
+
+}
+
